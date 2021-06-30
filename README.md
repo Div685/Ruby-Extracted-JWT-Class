@@ -1,1 +1,1 @@
-# Extracted Class
+# Extracted JWT Module Class
