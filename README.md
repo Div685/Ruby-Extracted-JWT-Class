@@ -4,7 +4,7 @@
 
 ## About the Project
 
-The main purpose of this PR was to extract a single class from the project. A piece of code I'm proud of and why? 
+The main purpose of this project was to extract a single class from the project. A piece of code I'm proud of and why? 
 > I decided to use the `JWT_auth` module class I coded while I was building this API. Why am I proud of this particular class? Well, it's because when I was creating Rails API I didn't have any knowledge about JWT authentication and I had to build user authentication considering the deadline. so I've done some research, read the documentation, and learned JWT authentication from scratch and I was able to implement it in this project. 
 
 This Class has following features:
